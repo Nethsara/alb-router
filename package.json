@@ -1,6 +1,6 @@
 {
   "name": "alb-router",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A user-friendly router for Amazon Application Load Balancer paths. Effortlessly match URLs, extract parameters, and handle routing in Node.js.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
