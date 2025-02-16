@@ -2,8 +2,7 @@
 
 [![NPM Version](https://img.shields.io/npm/v/alb-router.svg)](https://www.npmjs.com/package/alb-router)
 [![License](https://img.shields.io/npm/l/alb-router.svg)](#license)
-[![Build Status](https://img.shields.io/travis/<your-github-username>/<your-repo>.svg)](https://travis-ci.com/<your-github-username>/<your-repo>)
-[![Issues](https://img.shields.io/github/issues/<your-github-username>/<your-repo>.svg)](https://github.com/<your-github-username>/<your-repo>/issues)
+[![Issues](https://img.shields.io/github/issues/Nethsara/alb-router.svg)](https://github.com/Nethsara/alb-router/issues)
 
 A **user-friendly router** for **Amazon Application Load Balancer (ALB)** paths. Quickly **match URLs**, **extract parameters**, and **handle routing** in Node.js or AWS environments.
 
